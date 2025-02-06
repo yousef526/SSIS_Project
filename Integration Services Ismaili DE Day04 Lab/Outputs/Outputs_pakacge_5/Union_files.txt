@@ -1,0 +1,10 @@
+Crs_Id,Crs_Name,Crs_Duration,Top_Id,Lower_Crs_Name
+400,Unix,50,4,unix
+500,SQL Server,60,2,sql server
+900,Oracle,50,2,oracle
+300,OOP,80,1,oop
+800,Java,60,1,java
+600,C#,80,1,c#
+200,C Progamming,60,1,c progamming
+1000,ASP.Net,60,3,asp.net
+1200,Photoshop,30,5,photoshop
